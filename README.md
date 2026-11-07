@@ -16,12 +16,12 @@ I build free software. No paywalls, no accounts, no bs.
 
 | Tool | What it is |
 | --- | --- |
-| [Video Compressor](https://github.com/crtGhoul/video-compressor) (v7) | Free in-browser video compressor, no upload, no watermark |
-| [AppMaka](https://github.com/crtGhoul/appmaka) (v0.18.6) | Turn any website into an isolated desktop web app |
+| [Video Compressor](https://github.com/crtGhoul/video-compressor) (v8.1) | Free in-browser video compressor, no upload, no watermark |
+| [AppMaka](https://github.com/crtGhoul/appmaka) (v0.18.7) | Turn any website into an isolated desktop web app |
 | [Clean Apps](https://github.com/crtGhoul/clean-apps) (190 verified picks) | Verified iPhone apps with no ads and no in-app purchases |
-| [app-horde](https://github.com/crtGhoul/app-horde) | iPhone app index |
-| [droidhorde](https://github.com/crtGhoul/droidhorde) | Android APK index |
-| [Deadlock Build Guide](https://github.com/crtGhoul/deadlock-build-guide) (44 heroes) | Builds for every Deadlock hero |
+| [app-horde](https://github.com/crtGhoul/app-horde) (14,712 apps) | iPhone app index |
+| [droidhorde](https://github.com/crtGhoul/droidhorde) (8,400 apps) | Android APK index |
+| [Deadlock Build Guide](https://github.com/crtGhoul/deadlock-build-guide) (220 builds) | Builds for every Deadlock hero |
 | [LocalDrop](https://github.com/crtGhoul/localdrop) (v21.3) | Send files between nearby devices, peer-to-peer |
 | [Lock Launcher](https://github.com/crtGhoul/locklauncher-android) (v2.18) | App dock on your Android lock screen |
 | [TV Clean Home](https://codeberg.org/crtGhoul/tv-clean-home) (v1.2.2) | Lightweight Android TV launcher |
