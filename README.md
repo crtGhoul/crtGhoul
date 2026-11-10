@@ -60,12 +60,6 @@ I build free software. No paywalls, no accounts, no bs.
   </a>
 </p>
 
-## Have you used Muse?
-
-If not, you can earn a free 1B tokens when you sign up with my code: 0NS5DG
-
-Redeem it in Muse Settings > Redeem token within 48 hours of joining. Joining alone does not count.
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=crtGhoul&style=for-the-badge&color=10B981" alt="Profile Views" />
 </div>
