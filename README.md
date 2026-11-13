@@ -17,16 +17,18 @@ I build free software. No paywalls, no accounts, no bs.
 | Tool | What it is |
 | --- | --- |
 | [Video Compressor](https://github.com/crtGhoul/video-compressor) (v8.1) | Free in-browser video compressor, no upload, no watermark |
-| [AppMaka](https://github.com/crtGhoul/appmaka) (v0.18.7) | Turn any website into an isolated desktop web app |
-| [Clean Apps](https://github.com/crtGhoul/clean-apps) (190 verified picks) | Verified iPhone apps with no ads and no in-app purchases |
-| [app-horde](https://github.com/crtGhoul/app-horde) (14,712 apps) | iPhone app index |
-| [droidhorde](https://github.com/crtGhoul/droidhorde) (8,400 apps) | Android APK index |
+| [AppMaka](https://github.com/crtGhoul/appmaka) (v0.18.17) | Turn any website into an isolated desktop web app |
+| [Clean Apps](https://github.com/crtGhoul/clean-apps) (198 verified picks) | Verified iPhone apps with no ads and no in-app purchases |
+| [app-horde](https://github.com/crtGhoul/app-horde) (15,016 apps) | iPhone app index |
+| [droidhorde](https://github.com/crtGhoul/droidhorde) (8,426 apps) | Android APK index |
 | [Deadlock Build Guide](https://github.com/crtGhoul/deadlock-build-guide) (220 builds) | Builds for every Deadlock hero |
 | [LocalDrop](https://github.com/crtGhoul/localdrop) (v21.3) | Send files between nearby devices, peer-to-peer |
-| [Lock Launcher](https://github.com/crtGhoul/locklauncher-android) (v2.18) | App dock on your Android lock screen |
+| [Lock Launcher](https://github.com/crtGhoul/locklauncher-android) (v2.29) | App dock on your Android lock screen |
 | [TV Clean Home](https://codeberg.org/crtGhoul/tv-clean-home) (v1.2.2) | Lightweight Android TV launcher |
 | [Color Block](https://github.com/crtGhoul/color-block) (v8) | Ad-free puzzle game |
 | [Clip Studio](https://github.com/crtGhoul/clip-studio) | Make and edit videos in the browser |
+| [MarketTrack](https://github.com/crtGhoul/markettrack) | Free in-browser calorie counter — 267 foods across H-E-B, Walmart, Sam's Club and Joe V's, grams to kcal, streak and fasting timer |
+| [treadmill-tracker](https://github.com/crtGhoul/treadmill-tracker) | Treadmill walk tracker PWA — log miles, get real calorie estimates, offline-first |
 
 ## 🧰 Tech stack
 
